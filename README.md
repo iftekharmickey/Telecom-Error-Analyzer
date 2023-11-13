@@ -27,7 +27,6 @@ This script was created at [Infozillion Teletech BD Ltd.](https://www.infotelebd
 - Run the script.
 - Enter the file names when prompted for the MNO and IPTSP CSV files.
 - The script will process the data, perform the necessary calculations, and print the resulting DataFrame with error code summaries.
-- The script will also print the resulting DataFrame with error code summaries.
 - Subsequently, the script will generate an output CSV file named `combined_output.csv`.
 
 ## Script Overview:
