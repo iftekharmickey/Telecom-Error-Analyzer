@@ -2,13 +2,13 @@
 
 This script was created at [Infozillion Teletech BD Ltd.](https://www.infotelebd.com/) to automate the handling of a manual and repetitive task related to error code analysis from Mobile Network Operators (MNOs) and Internet Protocol Telephony Service Providers (IPTSPs). The script combines and analyzes data from two CSV files, performing data manipulation, filtering, and aggregation to create a consolidated table of error codes for each operator, along with a "Grand Total" summary.
 
-## Dependencies:
+## Dependencies
 
 - Python (version 3.x)
 - pandas (version 1.3.3 or higher)
 - numpy (version 1.21.2 or higher)
 
-## Installation:
+## Installation
 
 1. **Python**
    
@@ -22,14 +22,14 @@ This script was created at [Infozillion Teletech BD Ltd.](https://www.infotelebd
     pip install pandas numpy
     ```
     
-## Usage:
+## Usage
 
 - Run the script.
 - Enter the file names when prompted for the MNO and IPTSP CSV files.
 - The script will process the data, perform the necessary calculations, and print the resulting DataFrame with error code summaries.
 - Subsequently, the script will generate an output CSV file named `combined_output.csv`.
 
-## Script Overview:
+## Script Overview
 
 1. **Input:**
 
