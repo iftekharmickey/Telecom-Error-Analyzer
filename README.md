@@ -64,7 +64,13 @@ This script was created at [Infozillion Teletech BD Ltd.](https://www.infotelebd
    - The resulting DataFrame is saved to a CSV file named `combined_output.csv`.
    - The script prints the final DataFrame with error code summaries.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/iftekharmickey/Telecom-Error-Analyzer/blob/main/LICENSE) file for details.
+
+## Author
+
+This tool was developed by [Iftekhar Tahir](https://github.com/iftekharmickey/) as an automation project for Infozillion Teletech BD Ltd.
 
 
 
